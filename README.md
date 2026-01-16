@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="NICE TO MEET TOO" width="60%"/> <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Afify%20Yasser%20%7C%20AI%20Engineer%20%26%20Data%20Scientist&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <h2>👋 Afify Yasser</h2>
