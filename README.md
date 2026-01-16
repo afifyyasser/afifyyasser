@@ -22,18 +22,18 @@
 
 ## 👨‍💻 About Me
 Hi! I'm **Afify Yasser** – **Data Scientist & AI Engineer**  
-I specialize in building **AI & Data Science projects**, exploring **LangChain, LLMs, AI Agents**, and **automation workflows**.  
+I specialize in building **AI & Data Science projects**, exploring **LangChain, LangGraph, LangSmith, NLP, LLMs, AI Agents**, and **automation workflows**.  
 My goal: **create intelligent systems that learn, automate, and simplify life**.  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-**Programming Languages:** Python, SQL, HTML, CSS  
+**Programming Languages:** Python, SQL, HTML  
 
-**AI & Data Science:** Machine Learning, Deep Learning, NLP, LangChain, LLMs, AI Agents  
+**AI & Data Science:** NLP, Machine Learning, Deep Learning, Computer Vision, Analysis, LangChain, LangGraph, LangSmith, AI Agents  
 
-**Automation:** Scripts & Workflows  
+**Automation & Deployment:** Docker, Deployment, Scripts & Workflows  
 
 **Editors & Platforms:** VSCode, Neovim, Sublime, GNU/Linux, Windows, Mac  
 
@@ -41,19 +41,24 @@ My goal: **create intelligent systems that learn, automate, and simplify life**.
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-FF6600?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-2F74C0?style=flat)
-![LLM](https://img.shields.io/badge/LLM-00BFFF?style=flat)
-![AI Agents](https://img.shields.io/badge/AI_Agents-8A2BE2?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1E90FF?style=flat)
+![LangSmith](https://img.shields.io/badge/LangSmith-8A2BE2?style=flat)
+![NLP](https://img.shields.io/badge/NLP-FF69B4?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00BFFF?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-00FF7F?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FFD700?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deployment-32CD32?style=flat)
 
 ```dart
 // Tools Organized
 class AboutAfifyYasser extends Me { 
   const myTools = {  
-    "ProgrammingLanguages" : { "Python", "SQL", "HTML", "CSS" },
-    "AI_Tools" : { "Machine Learning", "Deep Learning", "NLP", "LangChain", "LLMs", "AI Agents" },
-    "Automation" : { "Scripts & Workflows" },
+    "ProgrammingLanguages" : { "Python", "SQL", "HTML" },
+    "AI_Tools" : { "NLP", "Machine Learning", "Deep Learning", "Computer Vision", "Analysis", "LangChain", "LangGraph", "LangSmith", "AI Agents" },
+    "Automation_Deployment" : { "Docker", "Deployment", "Scripts & Workflows" },
     "Editors" : { "VSCode", "Neovim", "Sublime" },
     "Platforms" : { "GNU/Linux", "Windows", "Mac" }
   };
