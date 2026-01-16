@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Afify%20Yasser:%0AAI%20Engineer%20and%20Data%20Scientist&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Afify%20Yasser:%0AAI%20Engineer%20|%20Data%20Scientist&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 
 
