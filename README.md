@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
-<p><strong> <summary> Busy coding & Vibing to: </summary> </strong></p>
+<p><strong> <summary> 🎧 Busy coding & Vibing to: </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
@@ -15,21 +15,28 @@
 [![Telegram](https://img.shields.io/badge/AfifyYasser-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 </div>
 
-<hr>
+---
 
 ## 👨‍💻 About Me
-Hi! I'm **Afify Yasser** – **Data Scientist & AI Engineer**.  
-I love building **AI & Data Science projects**, exploring **LangChain, LLMs, AI Agents**, and automating workflows.  
-My goal: create **intelligent systems that learn, automate, and simplify life**.  
+Hi! I'm **Afify Yasser** – **Data Scientist & AI Engineer**  
+I specialize in building **AI & Data Science projects**, exploring **LangChain, LLMs, AI Agents**, and **automation workflows**.  
+My goal: **create intelligent systems that learn, automate, and simplify life**.  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-**Programming Languages:** Python, JavaScript, SQL, HTML, CSS  
-**AI & ML:** Machine Learning, Deep Learning, NLP, LangChain, LLMs, AI Agents  
-**Automation:** Scripts & Workflows  
-**Editors & Platforms:** VSCode, Neovim, Sublime, GNU/Linux, Windows, Mac  
+**Programming Languages:**  
+Python, JavaScript, SQL, HTML, CSS  
+
+**AI & Data Science:**  
+Machine Learning, Deep Learning, NLP, LangChain, LLMs, AI Agents  
+
+**Automation:**  
+Scripts & Workflows  
+
+**Editors & Platforms:**  
+VSCode, Neovim, Sublime, GNU/Linux, Windows, Mac  
 
 ### 🔥 Badges
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
