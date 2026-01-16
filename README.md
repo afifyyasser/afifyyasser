@@ -1,4 +1,19 @@
-<div align="center" width="50">
+<div align="center">
+
+# 👋 Afify Yasser
+**Data Scientist & AI Engineer**  
+Building AI & Data Science projects, exploring LangChain, LLMs, AI Agents & Automation.  
+
+### 📫 Connect with Me
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201154570113)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AfifyYasser-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afify-yasser-650305372/)
+[![Instagram](https://img.shields.io/badge/Instagram-3ofy.9-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/3ofy.9/?__pwa=1)
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
@@ -9,7 +24,7 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
 </details>
- 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=AfifyYasser&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAfifyYasser&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
@@ -26,7 +41,7 @@ My goal: **create intelligent systems that learn, automate, and simplify life**.
 
 ## 🛠️ Tools & Technologies
 
-**Programming Languages:** Python, JavaScript, SQL, HTML, CSS  
+**Programming Languages:** Python, SQL, HTML, CSS  
 
 **AI & Data Science:** Machine Learning, Deep Learning, NLP, LangChain, LLMs, AI Agents  
 
@@ -39,7 +54,6 @@ My goal: **create intelligent systems that learn, automate, and simplify life**.
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Automation](https://img.shields.io/badge/Automation-FF6600?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-2F74C0?style=flat)
 ![LLM](https://img.shields.io/badge/LLM-00BFFF?style=flat)
@@ -49,7 +63,7 @@ My goal: **create intelligent systems that learn, automate, and simplify life**.
 // Tools Organized
 class AboutAfifyYasser extends Me { 
   const myTools = {  
-    "ProgrammingLanguages" : { "Python", "JavaScript", "SQL", "HTML", "CSS" },
+    "ProgrammingLanguages" : { "Python", "SQL", "HTML", "CSS" },
     "AI_Tools" : { "Machine Learning", "Deep Learning", "NLP", "LangChain", "LLMs", "AI Agents" },
     "Automation" : { "Scripts & Workflows" },
     "Editors" : { "VSCode", "Neovim", "Sublime" },
