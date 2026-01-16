@@ -56,14 +56,5 @@ My goal: **create intelligent systems that learn, automate, and simplify life**.
 ![Deployment](https://img.shields.io/badge/Deployment-32CD32?style=flat)
 
 
-```dart
-// Tools Organized
-class AboutAfifyYasser extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages" : { "Python", "SQL", "HTML" },
-    "AI_Tools" : { "NLP", "Machine Learning", "Deep Learning", "Computer Vision", "Analysis", "LangChain", "LangGraph", "LangSmith", "AI Agents" },
-    "Automation_Deployment" : { "Docker", "Deployment", "Scripts & Workflows" },
-    "Editors" : { "VSCode", "Neovim", "Sublime" },
-    "Platforms" : { "GNU/Linux", "Windows", "Mac" }
-  };
-}
+
+
