@@ -1,10 +1,13 @@
 <div align="center" width="50">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Afify%20Yasser%20%7C%20AI%20Engineer%20%26%20Data%20Scientist&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Afify%20Yasser:%0AAI%20Engineer%20and%20Data%20Scientist&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-<h2>👋 Afify Yasser</h2>
-**Data Scientist & AI Engineer**  
+
+
+
+
+
+  
 
 ### 📫 Connect with Me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201154570113)
@@ -51,6 +54,7 @@ My goal: **create intelligent systems that learn, automate, and simplify life**.
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FFD700?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Deployment](https://img.shields.io/badge/Deployment-32CD32?style=flat)
+
 
 ```dart
 // Tools Organized
