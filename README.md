@@ -12,10 +12,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AfifyYasser&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAfifyYasser&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram](https://img.shields.io/badge/AfifyYasser-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+
 </div>
 
----
+<hr>
 
 ## 👨‍💻 About Me
 Hi! I'm **Afify Yasser** – **Data Scientist & AI Engineer**  
@@ -26,17 +26,13 @@ My goal: **create intelligent systems that learn, automate, and simplify life**.
 
 ## 🛠️ Tools & Technologies
 
-**Programming Languages:**  
-Python, JavaScript, SQL, HTML, CSS  
+**Programming Languages:** Python, JavaScript, SQL, HTML, CSS  
 
-**AI & Data Science:**  
-Machine Learning, Deep Learning, NLP, LangChain, LLMs, AI Agents  
+**AI & Data Science:** Machine Learning, Deep Learning, NLP, LangChain, LLMs, AI Agents  
 
-**Automation:**  
-Scripts & Workflows  
+**Automation:** Scripts & Workflows  
 
-**Editors & Platforms:**  
-VSCode, Neovim, Sublime, GNU/Linux, Windows, Mac  
+**Editors & Platforms:** VSCode, Neovim, Sublime, GNU/Linux, Windows, Mac  
 
 ### 🔥 Badges
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
